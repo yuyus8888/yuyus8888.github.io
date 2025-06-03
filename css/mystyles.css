@@ -1,0 +1,47 @@
+p{
+    color: rgb(4, 2, 3);
+}
+.conan{
+    background-color: blueviolet;
+}
+.conan1{
+    background-color: rgb(82, 75, 73);
+}
+.conan2{
+    background-color: rgb(43, 195, 226);
+}
+a.yuyulink{
+    padding: 10px 50px 5px 30px;
+    margin: 0px 0px 0px 20px;
+    border-radius: 50px;
+    color: blueviolet;
+}
+a.yuyulink;:hover{
+    background-color: cadetblue;
+    color: aliceblue;
+}
+
+div.yuyudiv{
+    background-color: azure;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid rgb(191, 167, 118);
+}
+h4.yuyusmallh4{
+    font-size: 18px;
+}
+section#about.resume-section{
+    background-color: rgb(211, 213, 213);
+}
+.yuyucrop{
+    height:300px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+.yuyucallmebg{
+    background-image: ;
+    background-size: auto;
+    background-repeat: ;
+}
